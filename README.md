@@ -1,6 +1,8 @@
 # wp_clone
 
-A new Flutter project.
+Flutterda WhatsApp tasarım klonu.
+
+https://youtu.be/ZKkqtUlbAzU
 
 ## Getting Started
 
